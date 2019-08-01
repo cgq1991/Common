@@ -11,6 +11,9 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Requirements
 
+## 功能
+对数组越界进行 方法swiziling
+
 ## Installation
 
 common is available through [CocoaPods](https://cocoapods.org). To install
